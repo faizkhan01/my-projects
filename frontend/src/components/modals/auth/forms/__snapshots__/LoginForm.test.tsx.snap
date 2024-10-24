@@ -1,0 +1,278 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`LogInCustomerForm rendering should render correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <form
+        class="MuiBox-root css-15jziyh"
+      >
+        <div
+          class="MuiFormControl-root css-q8hpuo-MuiFormControl-root"
+        >
+          <label
+            class="css-1izi523"
+            for="form-input-email"
+          >
+            Email
+          </label>
+          <div
+            class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-1dxa9ws-MuiInputBase-root"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input css-yz9k0d-MuiInputBase-input"
+              id="form-input-email"
+              placeholder="Your email address"
+              type="text"
+              value=""
+            />
+          </div>
+        </div>
+        <div
+          class="MuiFormControl-root css-q8hpuo-MuiFormControl-root"
+        >
+          <label
+            class="css-1izi523"
+            for="form-input-password"
+          >
+            Password
+          </label>
+          <div
+            class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedEnd css-11kzjuh-MuiInputBase-root"
+          >
+            <input
+              aria-invalid="false"
+              class="MuiInputBase-input MuiInputBase-inputAdornedEnd css-yz9k0d-MuiInputBase-input"
+              id="form-input-password"
+              placeholder="Your password"
+              type="password"
+              value=""
+            />
+            <div
+              class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-1m0ifw1-MuiInputAdornment-root"
+            >
+              <button
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-15003gi-MuiButtonBase-root-MuiIconButton-root"
+                tabindex="0"
+                type="button"
+              >
+                <svg
+                  fill="none"
+                  height="18"
+                  viewBox="0 0 18 18"
+                  width="18"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M5.15644 12.8472C3.77269 11.8647 2.67769 10.5867 2.05894 9.77974C1.88591 9.55697 1.79199 9.28293 1.79199 9.00086C1.79199 8.7188 1.88591 8.44476 2.05894 8.22199C3.17869 6.76024 5.86519 3.75049 9.00169 3.75049C10.4087 3.75049 11.7242 4.35574 12.8492 5.15599M10.5989 7.41574C10.3906 7.20399 10.1424 7.03557 9.86874 6.9202C9.59505 6.80483 9.30122 6.7448 9.0042 6.74355C8.70719 6.74231 8.41287 6.79988 8.13822 6.91295C7.86357 7.02602 7.61402 7.19236 7.40398 7.40235C7.19393 7.61235 7.02754 7.86186 6.9144 8.13648C6.80127 8.41111 6.74362 8.70541 6.7448 9.00243C6.74597 9.29944 6.80594 9.59328 6.92124 9.867C7.03655 10.1407 7.20491 10.3889 7.41661 10.5972M3.0016 15.0005L15.0016 3.00049M7.5016 14.0285C7.9885 14.1734 8.49359 14.2482 9.0016 14.2505C12.1381 14.2505 14.8246 11.2407 15.9443 9.77899C16.1173 9.55602 16.2111 9.28181 16.211 8.99961C16.2109 8.71741 16.1168 8.44329 15.9436 8.22049C15.5501 7.70711 15.1279 7.21633 14.6791 6.75049"
+                    stroke="currentColor"
+                    stroke-linecap="round"
+                    stroke-linejoin="round"
+                  />
+                </svg>
+                <span
+                  class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                />
+              </button>
+            </div>
+          </div>
+        </div>
+        <div
+          class="MuiBox-root css-1bvc4cc"
+        >
+          <button
+            class="MuiButtonBase-root css-7tlshe-MuiButtonBase-root"
+            tabindex="0"
+            type="button"
+          >
+            <h6
+              class="MuiTypography-root MuiTypography-subtitle2 css-1ozj6lm-MuiTypography-root"
+            >
+              Forgot password?
+            </h6>
+            <span
+              class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+            />
+          </button>
+        </div>
+        <button
+          class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1a2cxzc-MuiButtonBase-root-MuiButton-root"
+          tabindex="0"
+          type="submit"
+        >
+          <span
+            class="MuiBox-root css-70qvj9"
+          >
+            Log In
+          </span>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </form>
+    </div>
+  </body>,
+  "container": <div>
+    <form
+      class="MuiBox-root css-15jziyh"
+    >
+      <div
+        class="MuiFormControl-root css-q8hpuo-MuiFormControl-root"
+      >
+        <label
+          class="css-1izi523"
+          for="form-input-email"
+        >
+          Email
+        </label>
+        <div
+          class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-1dxa9ws-MuiInputBase-root"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input css-yz9k0d-MuiInputBase-input"
+            id="form-input-email"
+            placeholder="Your email address"
+            type="text"
+            value=""
+          />
+        </div>
+      </div>
+      <div
+        class="MuiFormControl-root css-q8hpuo-MuiFormControl-root"
+      >
+        <label
+          class="css-1izi523"
+          for="form-input-password"
+        >
+          Password
+        </label>
+        <div
+          class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl MuiInputBase-adornedEnd css-11kzjuh-MuiInputBase-root"
+        >
+          <input
+            aria-invalid="false"
+            class="MuiInputBase-input MuiInputBase-inputAdornedEnd css-yz9k0d-MuiInputBase-input"
+            id="form-input-password"
+            placeholder="Your password"
+            type="password"
+            value=""
+          />
+          <div
+            class="MuiInputAdornment-root MuiInputAdornment-positionEnd MuiInputAdornment-outlined MuiInputAdornment-sizeMedium css-1m0ifw1-MuiInputAdornment-root"
+          >
+            <button
+              class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-15003gi-MuiButtonBase-root-MuiIconButton-root"
+              tabindex="0"
+              type="button"
+            >
+              <svg
+                fill="none"
+                height="18"
+                viewBox="0 0 18 18"
+                width="18"
+                xmlns="http://www.w3.org/2000/svg"
+              >
+                <path
+                  d="M5.15644 12.8472C3.77269 11.8647 2.67769 10.5867 2.05894 9.77974C1.88591 9.55697 1.79199 9.28293 1.79199 9.00086C1.79199 8.7188 1.88591 8.44476 2.05894 8.22199C3.17869 6.76024 5.86519 3.75049 9.00169 3.75049C10.4087 3.75049 11.7242 4.35574 12.8492 5.15599M10.5989 7.41574C10.3906 7.20399 10.1424 7.03557 9.86874 6.9202C9.59505 6.80483 9.30122 6.7448 9.0042 6.74355C8.70719 6.74231 8.41287 6.79988 8.13822 6.91295C7.86357 7.02602 7.61402 7.19236 7.40398 7.40235C7.19393 7.61235 7.02754 7.86186 6.9144 8.13648C6.80127 8.41111 6.74362 8.70541 6.7448 9.00243C6.74597 9.29944 6.80594 9.59328 6.92124 9.867C7.03655 10.1407 7.20491 10.3889 7.41661 10.5972M3.0016 15.0005L15.0016 3.00049M7.5016 14.0285C7.9885 14.1734 8.49359 14.2482 9.0016 14.2505C12.1381 14.2505 14.8246 11.2407 15.9443 9.77899C16.1173 9.55602 16.2111 9.28181 16.211 8.99961C16.2109 8.71741 16.1168 8.44329 15.9436 8.22049C15.5501 7.70711 15.1279 7.21633 14.6791 6.75049"
+                  stroke="currentColor"
+                  stroke-linecap="round"
+                  stroke-linejoin="round"
+                />
+              </svg>
+              <span
+                class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+              />
+            </button>
+          </div>
+        </div>
+      </div>
+      <div
+        class="MuiBox-root css-1bvc4cc"
+      >
+        <button
+          class="MuiButtonBase-root css-7tlshe-MuiButtonBase-root"
+          tabindex="0"
+          type="button"
+        >
+          <h6
+            class="MuiTypography-root MuiTypography-subtitle2 css-1ozj6lm-MuiTypography-root"
+          >
+            Forgot password?
+          </h6>
+          <span
+            class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+          />
+        </button>
+      </div>
+      <button
+        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1a2cxzc-MuiButtonBase-root-MuiButton-root"
+        tabindex="0"
+        type="submit"
+      >
+        <span
+          class="MuiBox-root css-70qvj9"
+        >
+          Log In
+        </span>
+        <span
+          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+        />
+      </button>
+    </form>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

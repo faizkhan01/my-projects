@@ -1,0 +1,954 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navbar rendering should render correctly 1`] = `
+{
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        class="MuiBox-root css-1k9ek97"
+      >
+        <div
+          class="MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-tort0v-MuiContainer-root"
+        >
+          <div
+            class="MuiBox-root css-13t50cv"
+          >
+            <div
+              class="MuiBox-root css-1567tvh"
+            >
+              <div
+                class="css-we8020-MuiStack-root"
+              >
+                <a
+                  aria-label="Go Home"
+                  href="/"
+                >
+                  <div
+                    class="MuiBox-root css-ymp66s"
+                  >
+                    <svg
+                      fill="none"
+                      height="37"
+                      viewBox="0 0 170 37"
+                      width="170"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <path
+                        d="M14.5974 3.86023C16.0641 3.86023 17.4209 4.44291 18.3743 5.42618C19.1076 6.15453 19.621 7.10138 19.841 8.15748H17.7509C17.6042 7.64764 17.3109 7.21063 16.9442 6.84646C16.3575 6.26378 15.5141 5.86319 14.5974 5.86319C13.6806 5.86319 12.8373 6.22736 12.2506 6.84646C11.8839 7.21063 11.5905 7.64764 11.4438 8.15748H9.35372C9.57373 7.10138 10.0871 6.15453 10.8205 5.42618C11.7739 4.44291 13.1306 3.86023 14.5974 3.86023ZM14.5974 7.72047C15.0007 7.72047 15.3674 7.86614 15.6241 8.15748C15.8808 8.4124 16.0641 8.77657 16.0641 9.17716C16.0641 9.57775 15.9174 9.94193 15.6241 10.1968C15.3674 10.4518 15.0007 10.6339 14.5974 10.6339C14.194 10.6339 13.8273 10.4882 13.5706 10.1968C13.314 9.94193 13.1306 9.57775 13.1306 9.17716C13.1306 8.77657 13.2773 8.4124 13.5706 8.15748C13.8273 7.90256 14.194 7.72047 14.5974 7.72047ZM14.5974 0C17.1642 0 19.4743 1.01969 21.1244 2.69488C22.5912 4.11516 23.5446 6.04527 23.7646 8.1939H21.7111C21.4911 6.62795 20.7577 5.20768 19.6577 4.11516C18.3376 2.80413 16.5408 2.00295 14.5607 2.00295C12.5806 2.00295 10.7471 2.80413 9.46373 4.11516C8.40033 5.17126 7.63028 6.59153 7.41027 8.1939H5.35681C5.57682 6.04527 6.56688 4.15157 7.99697 2.69488C9.75708 1.01969 12.0672 0 14.5974 0Z"
+                        fill="#13D7FF"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M5.76012 31.0639H14.5973H23.4345C25.268 31.0639 26.5147 29.5707 26.7714 27.7499L29.1915 9.7233C29.2282 9.39555 28.9348 9.14062 28.6048 9.14062H17.9342C17.9342 10.0511 17.5675 10.8522 16.9441 11.4713C16.3574 12.054 15.514 12.4546 14.5973 12.4546C13.6806 12.4546 12.8372 12.0904 12.2505 11.4713C11.6638 10.8522 11.2605 10.0511 11.2605 9.14062H0.58981C0.25979 9.14062 -0.0335609 9.39555 0.003108 9.7233L2.42325 27.7499C2.67994 29.5707 3.92668 31.0639 5.76012 31.0639Z"
+                        fill="#5F59FF"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M51.5962 11.9085C51.5962 13.2196 52.6596 14.2028 54.053 14.2028C55.4464 14.2028 56.5098 13.2196 56.5098 11.9085C56.5098 10.5975 55.4464 9.61426 54.053 9.61426C52.6596 9.61426 51.5962 10.5975 51.5962 11.9085Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        d="M56.1799 15.4775H51.9263V29.0976H56.1799V15.4775Z"
+                        fill="#333E5C"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M76.7511 11.9085C76.7511 13.2196 77.8145 14.2028 79.2079 14.2028C80.5647 14.2028 81.6281 13.2196 81.6281 11.9085C81.6281 10.5975 80.5647 9.61426 79.1712 9.61426C77.7778 9.61426 76.7511 10.5975 76.7511 11.9085Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        d="M81.298 15.4775H77.0444V29.0976H81.298V15.4775Z"
+                        fill="#333E5C"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M89.8052 19.119H92.8121V15.4773H89.8052V11.5078L85.5516 12.1269V15.4409H83.3148V19.0826H85.5516V24.5452C85.5516 27.6043 87.3484 29.3523 90.2819 29.3523C91.3086 29.3523 92.2987 29.1338 92.9587 28.7332V25.6741C92.592 25.747 92.0053 25.747 91.5653 25.747C90.3186 25.747 89.8052 25.2371 89.8052 24.1446V19.119Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M115.767 22.5433C114.263 24.6191 112.503 25.6752 110.01 25.6752C106.966 25.6752 104.693 23.1988 104.693 19.9212C104.693 16.6437 106.783 14.1673 109.753 14.1673C111.66 14.1673 113.2 15.2598 113.75 17.2263H118.37C117.417 12.9291 114.117 10.3799 109.716 10.3799C104.253 10.3799 100.256 14.495 100.256 19.9212C100.256 25.2746 104.363 29.4626 109.826 29.4626C113.713 29.4626 116.317 27.5324 118.15 24.3277L115.767 22.5433Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M119.654 22.2875C119.654 26.2934 122.33 29.4252 126.107 29.4252C127.904 29.4252 129.407 28.7333 130.471 27.6044V29.0975H134.651V15.4774H130.471V16.9705C129.407 15.8416 127.904 15.1497 126.107 15.1497C122.33 15.1497 119.654 18.2815 119.654 22.2875ZM123.87 22.2875C123.87 20.3573 125.301 18.8642 127.171 18.8642C129.041 18.8642 130.508 20.3573 130.508 22.2875C130.508 24.2176 129.041 25.7107 127.171 25.7107C125.301 25.7107 123.87 24.254 123.87 22.2875Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M144.918 18.8642C145.432 18.8642 146.055 18.9735 146.605 19.1556L146.899 15.3682C146.642 15.2589 146.275 15.1497 145.872 15.1497C144.332 15.1497 143.122 15.878 142.242 17.0069V15.4774H137.988V29.0975H142.242V21.8504C142.242 19.9567 143.488 18.8642 144.918 18.8642Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M154.269 19.119H157.276V15.4773H154.269V11.5078L150.015 12.1269V15.4409H147.779V19.0826H150.015V24.5452C150.015 27.6043 151.812 29.3523 154.746 29.3523C155.773 29.3523 156.763 29.1338 157.423 28.7332V25.6741C157.056 25.747 156.469 25.747 156.029 25.747C154.782 25.747 154.269 25.2371 154.269 24.1446V19.119Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M159.073 26.5482C160.576 28.4419 162.41 29.4252 164.463 29.4252C167.836 29.4252 170 27.6043 170 25.1644C170 22.8701 168.533 21.377 165.38 20.7215C163.876 20.3937 163.363 19.9203 163.363 19.3376C163.363 18.7549 163.913 18.3908 164.683 18.3908C165.526 18.3908 166.04 18.8642 166.223 19.6289H169.927C169.56 17.0433 167.726 15.186 164.463 15.186C161.456 15.186 159.366 16.8977 159.366 19.2648C159.366 21.5591 160.906 23.0886 163.803 23.7077C165.38 24.0354 165.93 24.4725 165.93 25.128C165.93 25.7835 165.306 26.2205 164.243 26.2205C162.923 26.2205 161.749 25.7106 160.649 24.691L159.073 26.5482Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M72.7541 22.251V15.186H68.9406V15.9872C67.9505 15.4774 66.8138 15.186 65.6404 15.186C61.7168 15.186 58.5266 18.3543 58.5266 22.251C58.5266 26.1476 61.7168 29.316 65.6404 29.316C69.5639 29.2795 72.7541 26.1476 72.7541 22.251ZM65.6404 18.937C63.8069 18.937 62.3402 20.4301 62.3402 22.251C62.3402 24.0719 63.8069 25.5286 65.6404 25.5286C67.4738 25.5286 68.9406 24.0354 68.9406 22.251C68.9772 20.4301 67.4738 18.937 65.6404 18.937Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M72.9008 33.6133L70.2606 30.9912C69.1972 32.4479 67.5105 33.3219 65.677 33.3219C63.8436 33.3219 62.1568 32.4479 61.0934 30.9912L58.4532 33.6133C60.25 35.7619 62.8902 37.0001 65.677 37.0001C68.4639 37.0001 71.104 35.7255 72.9008 33.6133Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                      <path
+                        clip-rule="evenodd"
+                        d="M33.0417 10.6704V29.0976H39.9722C45.5458 29.0976 49.2861 25.4558 49.2861 19.884C49.2861 14.3121 45.5458 10.6704 39.9722 10.6704H33.0417ZM39.6788 14.4578C42.759 14.4578 44.8491 16.3151 44.8491 19.884C44.8491 23.3436 42.9423 25.1281 40.0822 25.2738C39.6421 25.3102 39.2021 25.3102 38.7254 25.3102H37.442V14.4578H39.6788Z"
+                        fill="#333E5C"
+                        fill-rule="evenodd"
+                      />
+                    </svg>
+                  </div>
+                </a>
+                <div
+                  class="MuiBox-root css-6k8fz8"
+                >
+                  <div
+                    class="MuiBox-root css-0"
+                  >
+                    <button
+                      aria-haspopup="true"
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-7jmvg8-MuiButtonBase-root-MuiButton-root"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiBox-root css-70qvj9"
+                      >
+                        <span
+                          class="MuiBox-root css-z97p8g"
+                        >
+                          <svg
+                            fill="currentColor"
+                            height="1em"
+                            viewBox="0 0 256 256"
+                            width="1em"
+                            xmlns="http://www.w3.org/2000/svg"
+                          >
+                            <rect
+                              fill="none"
+                              height="256"
+                              width="256"
+                            />
+                            <line
+                              fill="none"
+                              stroke="currentColor"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-width="24"
+                              x1="88"
+                              x2="216"
+                              y1="64"
+                              y2="64"
+                            />
+                            <line
+                              fill="none"
+                              stroke="currentColor"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-width="24"
+                              x1="88"
+                              x2="216"
+                              y1="128"
+                              y2="128"
+                            />
+                            <line
+                              fill="none"
+                              stroke="currentColor"
+                              stroke-linecap="round"
+                              stroke-linejoin="round"
+                              stroke-width="24"
+                              x1="88"
+                              x2="216"
+                              y1="192"
+                              y2="192"
+                            />
+                            <circle
+                              cx="44"
+                              cy="128"
+                              r="16"
+                            />
+                            <circle
+                              cx="44"
+                              cy="64"
+                              r="16"
+                            />
+                            <circle
+                              cx="44"
+                              cy="192"
+                              r="16"
+                            />
+                          </svg>
+                        </span>
+                        Catalog
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </div>
+                <div
+                  class="MuiBox-root css-1obmd7f"
+                >
+                  <div
+                    class="MuiBox-root css-0"
+                  >
+                    <button
+                      aria-haspopup="true"
+                      class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorInherit MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorInherit MuiButton-disableElevation css-16y7225-MuiButtonBase-root-MuiButton-root"
+                      id=":r1:-button"
+                      tabindex="0"
+                      type="button"
+                    >
+                      <span
+                        class="MuiTypography-root MuiTypography-subtitle2 css-izovp6-MuiTypography-root"
+                        title="All Categories"
+                      >
+                        All Categories
+                      </span>
+                      <span
+                        class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                      >
+                        <svg
+                          fill="currentColor"
+                          height="1em"
+                          viewBox="0 0 256 256"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <rect
+                            fill="none"
+                            height="256"
+                            width="256"
+                          />
+                          <polyline
+                            fill="none"
+                            points="208 96 128 176 48 96"
+                            stroke="currentColor"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="16"
+                          />
+                        </svg>
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                  <hr
+                    class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical css-xiih0b-MuiDivider-root"
+                  />
+                  <form
+                    class="MuiBox-root css-8atqhb"
+                  >
+                    <div
+                      class="MuiFormControl-root css-vmzxg5-MuiFormControl-root"
+                    >
+                      <div
+                        class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-evhj83-MuiInputBase-root"
+                      >
+                        <input
+                          aria-invalid="false"
+                          aria-label="Search on Only Latest"
+                          class="MuiInputBase-input MuiInputBase-inputTypeSearch css-19fibzo-MuiInputBase-input"
+                          placeholder="Search on Only Latest"
+                          type="search"
+                          value=""
+                        />
+                      </div>
+                      <button
+                        class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1ok6u9q-MuiButtonBase-root-MuiButton-root"
+                        tabindex="0"
+                        type="submit"
+                      >
+                        <span
+                          class="MuiBox-root css-70qvj9"
+                        >
+                          Search
+                        </span>
+                        <span
+                          class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                        />
+                      </button>
+                    </div>
+                  </form>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root css-395u1d"
+              >
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    aria-haspopup="true"
+                    class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                    id=":r2:-navbar-user-menu-button"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiBox-root css-dvxtzn"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="28"
+                        viewBox="0 0 256 256"
+                        width="28"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect
+                          fill="none"
+                          height="256"
+                          width="256"
+                        />
+                        <circle
+                          cx="128"
+                          cy="96"
+                          fill="none"
+                          r="64"
+                          stroke="currentColor"
+                          stroke-miterlimit="10"
+                          stroke-width="16"
+                        />
+                        <path
+                          d="M31,216a112,112,0,0,1,194,0"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="16"
+                        />
+                      </svg>
+                      <span
+                        class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                      >
+                        Join
+                      </span>
+                    </span>
+                  </button>
+                </div>
+                <a
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                  href="/wishlist"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiBox-root css-dvxtzn"
+                  >
+                    <span
+                      class="MuiBadge-root MuiBadge-root css-1h1uulh-MuiBadge-root"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="28"
+                        viewBox="0 0 256 256"
+                        width="28"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect
+                          fill="none"
+                          height="256"
+                          width="256"
+                        />
+                        <path
+                          d="M128,216S28,160,28,92A52,52,0,0,1,128,72h0A52,52,0,0,1,228,92C228,160,128,216,128,216Z"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="16"
+                        />
+                      </svg>
+                      <span
+                        class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorSecondary MuiBadge-badge MuiBadge-invisible css-fu0map-MuiBadge-badge"
+                      />
+                    </span>
+                    <span
+                      class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                    >
+                      Wishlist
+                    </span>
+                  </span>
+                </a>
+                <a
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                  href="/cart"
+                  tabindex="0"
+                >
+                  <span
+                    class="MuiBox-root css-dvxtzn"
+                  >
+                    <span
+                      class="MuiBadge-root MuiBadge-root css-1h1uulh-MuiBadge-root"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="28"
+                        viewBox="0 0 256 256"
+                        width="28"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect
+                          fill="none"
+                          height="256"
+                          width="256"
+                        />
+                        <path
+                          d="M208.8,72H47.2a8.1,8.1,0,0,0-8,7.1L25,207.1a8,8,0,0,0,7.9,8.9H223.1a8,8,0,0,0,7.9-8.9l-14.2-128A8.1,8.1,0,0,0,208.8,72Z"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="16"
+                        />
+                        <path
+                          d="M88,72a40,40,0,0,1,80,0"
+                          fill="none"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="16"
+                        />
+                      </svg>
+                      <span
+                        class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorSecondary MuiBadge-badge MuiBadge-invisible css-fu0map-MuiBadge-badge"
+                      />
+                    </span>
+                    <span
+                      class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                    >
+                      Cart
+                    </span>
+                  </span>
+                </a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      class="MuiBox-root css-1k9ek97"
+    >
+      <div
+        class="MuiContainer-root MuiContainer-maxWidthXl MuiContainer-disableGutters css-tort0v-MuiContainer-root"
+      >
+        <div
+          class="MuiBox-root css-13t50cv"
+        >
+          <div
+            class="MuiBox-root css-1567tvh"
+          >
+            <div
+              class="css-we8020-MuiStack-root"
+            >
+              <a
+                aria-label="Go Home"
+                href="/"
+              >
+                <div
+                  class="MuiBox-root css-ymp66s"
+                >
+                  <svg
+                    fill="none"
+                    height="37"
+                    viewBox="0 0 170 37"
+                    width="170"
+                    xmlns="http://www.w3.org/2000/svg"
+                  >
+                    <path
+                      d="M14.5974 3.86023C16.0641 3.86023 17.4209 4.44291 18.3743 5.42618C19.1076 6.15453 19.621 7.10138 19.841 8.15748H17.7509C17.6042 7.64764 17.3109 7.21063 16.9442 6.84646C16.3575 6.26378 15.5141 5.86319 14.5974 5.86319C13.6806 5.86319 12.8373 6.22736 12.2506 6.84646C11.8839 7.21063 11.5905 7.64764 11.4438 8.15748H9.35372C9.57373 7.10138 10.0871 6.15453 10.8205 5.42618C11.7739 4.44291 13.1306 3.86023 14.5974 3.86023ZM14.5974 7.72047C15.0007 7.72047 15.3674 7.86614 15.6241 8.15748C15.8808 8.4124 16.0641 8.77657 16.0641 9.17716C16.0641 9.57775 15.9174 9.94193 15.6241 10.1968C15.3674 10.4518 15.0007 10.6339 14.5974 10.6339C14.194 10.6339 13.8273 10.4882 13.5706 10.1968C13.314 9.94193 13.1306 9.57775 13.1306 9.17716C13.1306 8.77657 13.2773 8.4124 13.5706 8.15748C13.8273 7.90256 14.194 7.72047 14.5974 7.72047ZM14.5974 0C17.1642 0 19.4743 1.01969 21.1244 2.69488C22.5912 4.11516 23.5446 6.04527 23.7646 8.1939H21.7111C21.4911 6.62795 20.7577 5.20768 19.6577 4.11516C18.3376 2.80413 16.5408 2.00295 14.5607 2.00295C12.5806 2.00295 10.7471 2.80413 9.46373 4.11516C8.40033 5.17126 7.63028 6.59153 7.41027 8.1939H5.35681C5.57682 6.04527 6.56688 4.15157 7.99697 2.69488C9.75708 1.01969 12.0672 0 14.5974 0Z"
+                      fill="#13D7FF"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M5.76012 31.0639H14.5973H23.4345C25.268 31.0639 26.5147 29.5707 26.7714 27.7499L29.1915 9.7233C29.2282 9.39555 28.9348 9.14062 28.6048 9.14062H17.9342C17.9342 10.0511 17.5675 10.8522 16.9441 11.4713C16.3574 12.054 15.514 12.4546 14.5973 12.4546C13.6806 12.4546 12.8372 12.0904 12.2505 11.4713C11.6638 10.8522 11.2605 10.0511 11.2605 9.14062H0.58981C0.25979 9.14062 -0.0335609 9.39555 0.003108 9.7233L2.42325 27.7499C2.67994 29.5707 3.92668 31.0639 5.76012 31.0639Z"
+                      fill="#5F59FF"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M51.5962 11.9085C51.5962 13.2196 52.6596 14.2028 54.053 14.2028C55.4464 14.2028 56.5098 13.2196 56.5098 11.9085C56.5098 10.5975 55.4464 9.61426 54.053 9.61426C52.6596 9.61426 51.5962 10.5975 51.5962 11.9085Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      d="M56.1799 15.4775H51.9263V29.0976H56.1799V15.4775Z"
+                      fill="#333E5C"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M76.7511 11.9085C76.7511 13.2196 77.8145 14.2028 79.2079 14.2028C80.5647 14.2028 81.6281 13.2196 81.6281 11.9085C81.6281 10.5975 80.5647 9.61426 79.1712 9.61426C77.7778 9.61426 76.7511 10.5975 76.7511 11.9085Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      d="M81.298 15.4775H77.0444V29.0976H81.298V15.4775Z"
+                      fill="#333E5C"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M89.8052 19.119H92.8121V15.4773H89.8052V11.5078L85.5516 12.1269V15.4409H83.3148V19.0826H85.5516V24.5452C85.5516 27.6043 87.3484 29.3523 90.2819 29.3523C91.3086 29.3523 92.2987 29.1338 92.9587 28.7332V25.6741C92.592 25.747 92.0053 25.747 91.5653 25.747C90.3186 25.747 89.8052 25.2371 89.8052 24.1446V19.119Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M115.767 22.5433C114.263 24.6191 112.503 25.6752 110.01 25.6752C106.966 25.6752 104.693 23.1988 104.693 19.9212C104.693 16.6437 106.783 14.1673 109.753 14.1673C111.66 14.1673 113.2 15.2598 113.75 17.2263H118.37C117.417 12.9291 114.117 10.3799 109.716 10.3799C104.253 10.3799 100.256 14.495 100.256 19.9212C100.256 25.2746 104.363 29.4626 109.826 29.4626C113.713 29.4626 116.317 27.5324 118.15 24.3277L115.767 22.5433Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M119.654 22.2875C119.654 26.2934 122.33 29.4252 126.107 29.4252C127.904 29.4252 129.407 28.7333 130.471 27.6044V29.0975H134.651V15.4774H130.471V16.9705C129.407 15.8416 127.904 15.1497 126.107 15.1497C122.33 15.1497 119.654 18.2815 119.654 22.2875ZM123.87 22.2875C123.87 20.3573 125.301 18.8642 127.171 18.8642C129.041 18.8642 130.508 20.3573 130.508 22.2875C130.508 24.2176 129.041 25.7107 127.171 25.7107C125.301 25.7107 123.87 24.254 123.87 22.2875Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M144.918 18.8642C145.432 18.8642 146.055 18.9735 146.605 19.1556L146.899 15.3682C146.642 15.2589 146.275 15.1497 145.872 15.1497C144.332 15.1497 143.122 15.878 142.242 17.0069V15.4774H137.988V29.0975H142.242V21.8504C142.242 19.9567 143.488 18.8642 144.918 18.8642Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M154.269 19.119H157.276V15.4773H154.269V11.5078L150.015 12.1269V15.4409H147.779V19.0826H150.015V24.5452C150.015 27.6043 151.812 29.3523 154.746 29.3523C155.773 29.3523 156.763 29.1338 157.423 28.7332V25.6741C157.056 25.747 156.469 25.747 156.029 25.747C154.782 25.747 154.269 25.2371 154.269 24.1446V19.119Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M159.073 26.5482C160.576 28.4419 162.41 29.4252 164.463 29.4252C167.836 29.4252 170 27.6043 170 25.1644C170 22.8701 168.533 21.377 165.38 20.7215C163.876 20.3937 163.363 19.9203 163.363 19.3376C163.363 18.7549 163.913 18.3908 164.683 18.3908C165.526 18.3908 166.04 18.8642 166.223 19.6289H169.927C169.56 17.0433 167.726 15.186 164.463 15.186C161.456 15.186 159.366 16.8977 159.366 19.2648C159.366 21.5591 160.906 23.0886 163.803 23.7077C165.38 24.0354 165.93 24.4725 165.93 25.128C165.93 25.7835 165.306 26.2205 164.243 26.2205C162.923 26.2205 161.749 25.7106 160.649 24.691L159.073 26.5482Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M72.7541 22.251V15.186H68.9406V15.9872C67.9505 15.4774 66.8138 15.186 65.6404 15.186C61.7168 15.186 58.5266 18.3543 58.5266 22.251C58.5266 26.1476 61.7168 29.316 65.6404 29.316C69.5639 29.2795 72.7541 26.1476 72.7541 22.251ZM65.6404 18.937C63.8069 18.937 62.3402 20.4301 62.3402 22.251C62.3402 24.0719 63.8069 25.5286 65.6404 25.5286C67.4738 25.5286 68.9406 24.0354 68.9406 22.251C68.9772 20.4301 67.4738 18.937 65.6404 18.937Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M72.9008 33.6133L70.2606 30.9912C69.1972 32.4479 67.5105 33.3219 65.677 33.3219C63.8436 33.3219 62.1568 32.4479 61.0934 30.9912L58.4532 33.6133C60.25 35.7619 62.8902 37.0001 65.677 37.0001C68.4639 37.0001 71.104 35.7255 72.9008 33.6133Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                    <path
+                      clip-rule="evenodd"
+                      d="M33.0417 10.6704V29.0976H39.9722C45.5458 29.0976 49.2861 25.4558 49.2861 19.884C49.2861 14.3121 45.5458 10.6704 39.9722 10.6704H33.0417ZM39.6788 14.4578C42.759 14.4578 44.8491 16.3151 44.8491 19.884C44.8491 23.3436 42.9423 25.1281 40.0822 25.2738C39.6421 25.3102 39.2021 25.3102 38.7254 25.3102H37.442V14.4578H39.6788Z"
+                      fill="#333E5C"
+                      fill-rule="evenodd"
+                    />
+                  </svg>
+                </div>
+              </a>
+              <div
+                class="MuiBox-root css-6k8fz8"
+              >
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    aria-haspopup="true"
+                    class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-7jmvg8-MuiButtonBase-root-MuiButton-root"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiBox-root css-70qvj9"
+                    >
+                      <span
+                        class="MuiBox-root css-z97p8g"
+                      >
+                        <svg
+                          fill="currentColor"
+                          height="1em"
+                          viewBox="0 0 256 256"
+                          width="1em"
+                          xmlns="http://www.w3.org/2000/svg"
+                        >
+                          <rect
+                            fill="none"
+                            height="256"
+                            width="256"
+                          />
+                          <line
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="24"
+                            x1="88"
+                            x2="216"
+                            y1="64"
+                            y2="64"
+                          />
+                          <line
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="24"
+                            x1="88"
+                            x2="216"
+                            y1="128"
+                            y2="128"
+                          />
+                          <line
+                            fill="none"
+                            stroke="currentColor"
+                            stroke-linecap="round"
+                            stroke-linejoin="round"
+                            stroke-width="24"
+                            x1="88"
+                            x2="216"
+                            y1="192"
+                            y2="192"
+                          />
+                          <circle
+                            cx="44"
+                            cy="128"
+                            r="16"
+                          />
+                          <circle
+                            cx="44"
+                            cy="64"
+                            r="16"
+                          />
+                          <circle
+                            cx="44"
+                            cy="192"
+                            r="16"
+                          />
+                        </svg>
+                      </span>
+                      Catalog
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+              </div>
+              <div
+                class="MuiBox-root css-1obmd7f"
+              >
+                <div
+                  class="MuiBox-root css-0"
+                >
+                  <button
+                    aria-haspopup="true"
+                    class="MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorInherit MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedInherit MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorInherit MuiButton-disableElevation css-16y7225-MuiButtonBase-root-MuiButton-root"
+                    id=":r1:-button"
+                    tabindex="0"
+                    type="button"
+                  >
+                    <span
+                      class="MuiTypography-root MuiTypography-subtitle2 css-izovp6-MuiTypography-root"
+                      title="All Categories"
+                    >
+                      All Categories
+                    </span>
+                    <span
+                      class="MuiButton-endIcon MuiButton-iconSizeMedium css-9tj150-MuiButton-endIcon"
+                    >
+                      <svg
+                        fill="currentColor"
+                        height="1em"
+                        viewBox="0 0 256 256"
+                        width="1em"
+                        xmlns="http://www.w3.org/2000/svg"
+                      >
+                        <rect
+                          fill="none"
+                          height="256"
+                          width="256"
+                        />
+                        <polyline
+                          fill="none"
+                          points="208 96 128 176 48 96"
+                          stroke="currentColor"
+                          stroke-linecap="round"
+                          stroke-linejoin="round"
+                          stroke-width="16"
+                        />
+                      </svg>
+                    </span>
+                    <span
+                      class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                    />
+                  </button>
+                </div>
+                <hr
+                  class="MuiDivider-root MuiDivider-fullWidth MuiDivider-vertical css-xiih0b-MuiDivider-root"
+                />
+                <form
+                  class="MuiBox-root css-8atqhb"
+                >
+                  <div
+                    class="MuiFormControl-root css-vmzxg5-MuiFormControl-root"
+                  >
+                    <div
+                      class="MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-formControl css-evhj83-MuiInputBase-root"
+                    >
+                      <input
+                        aria-invalid="false"
+                        aria-label="Search on Only Latest"
+                        class="MuiInputBase-input MuiInputBase-inputTypeSearch css-19fibzo-MuiInputBase-input"
+                        placeholder="Search on Only Latest"
+                        type="search"
+                        value=""
+                      />
+                    </div>
+                    <button
+                      class="MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium css-1ok6u9q-MuiButtonBase-root-MuiButton-root"
+                      tabindex="0"
+                      type="submit"
+                    >
+                      <span
+                        class="MuiBox-root css-70qvj9"
+                      >
+                        Search
+                      </span>
+                      <span
+                        class="MuiTouchRipple-root css-8je8zh-MuiTouchRipple-root"
+                      />
+                    </button>
+                  </div>
+                </form>
+              </div>
+            </div>
+            <div
+              class="MuiBox-root css-395u1d"
+            >
+              <div
+                class="MuiBox-root css-0"
+              >
+                <button
+                  aria-haspopup="true"
+                  class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                  id=":r2:-navbar-user-menu-button"
+                  tabindex="0"
+                  type="button"
+                >
+                  <span
+                    class="MuiBox-root css-dvxtzn"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="28"
+                      viewBox="0 0 256 256"
+                      width="28"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <rect
+                        fill="none"
+                        height="256"
+                        width="256"
+                      />
+                      <circle
+                        cx="128"
+                        cy="96"
+                        fill="none"
+                        r="64"
+                        stroke="currentColor"
+                        stroke-miterlimit="10"
+                        stroke-width="16"
+                      />
+                      <path
+                        d="M31,216a112,112,0,0,1,194,0"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="16"
+                      />
+                    </svg>
+                    <span
+                      class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                    >
+                      Join
+                    </span>
+                  </span>
+                </button>
+              </div>
+              <a
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                href="/wishlist"
+                tabindex="0"
+              >
+                <span
+                  class="MuiBox-root css-dvxtzn"
+                >
+                  <span
+                    class="MuiBadge-root MuiBadge-root css-1h1uulh-MuiBadge-root"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="28"
+                      viewBox="0 0 256 256"
+                      width="28"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <rect
+                        fill="none"
+                        height="256"
+                        width="256"
+                      />
+                      <path
+                        d="M128,216S28,160,28,92A52,52,0,0,1,128,72h0A52,52,0,0,1,228,92C228,160,128,216,128,216Z"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="16"
+                      />
+                    </svg>
+                    <span
+                      class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorSecondary MuiBadge-badge MuiBadge-invisible css-fu0map-MuiBadge-badge"
+                    />
+                  </span>
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                  >
+                    Wishlist
+                  </span>
+                </span>
+              </a>
+              <a
+                class="MuiButtonBase-root MuiIconButton-root MuiIconButton-sizeMedium css-9cxdun-MuiButtonBase-root-MuiIconButton-root"
+                href="/cart"
+                tabindex="0"
+              >
+                <span
+                  class="MuiBox-root css-dvxtzn"
+                >
+                  <span
+                    class="MuiBadge-root MuiBadge-root css-1h1uulh-MuiBadge-root"
+                  >
+                    <svg
+                      fill="currentColor"
+                      height="28"
+                      viewBox="0 0 256 256"
+                      width="28"
+                      xmlns="http://www.w3.org/2000/svg"
+                    >
+                      <rect
+                        fill="none"
+                        height="256"
+                        width="256"
+                      />
+                      <path
+                        d="M208.8,72H47.2a8.1,8.1,0,0,0-8,7.1L25,207.1a8,8,0,0,0,7.9,8.9H223.1a8,8,0,0,0,7.9-8.9l-14.2-128A8.1,8.1,0,0,0,208.8,72Z"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="16"
+                      />
+                      <path
+                        d="M88,72a40,40,0,0,1,80,0"
+                        fill="none"
+                        stroke="currentColor"
+                        stroke-linecap="round"
+                        stroke-linejoin="round"
+                        stroke-width="16"
+                      />
+                    </svg>
+                    <span
+                      class="MuiBadge-badge MuiBadge-standard MuiBadge-invisible MuiBadge-anchorOriginTopRight MuiBadge-anchorOriginTopRightRectangular MuiBadge-overlapRectangular MuiBadge-colorSecondary MuiBadge-badge MuiBadge-invisible css-fu0map-MuiBadge-badge"
+                    />
+                  </span>
+                  <span
+                    class="MuiTypography-root MuiTypography-body1 css-ohyze9-MuiTypography-root"
+                  >
+                    Cart
+                  </span>
+                </span>
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

@@ -1,0 +1,8 @@
+{
+  "singleQuote": true,
+  "endOfLine": "auto",
+  "tabWidth": 2,
+  "printWidth": 80,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "tailwindFunctions": ["clsx", "cx", "cva", "cn"]
+}
